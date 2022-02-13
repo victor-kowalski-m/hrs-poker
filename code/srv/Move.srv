@@ -1,0 +1,5 @@
+#CREATE request parameters
+string name
+--------------------------------
+#CREATE response parameters
+string status
