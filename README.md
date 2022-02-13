@@ -5,7 +5,9 @@ Final project for the course Humanoid Robotic Systems at TUM, concluded in Febru
 Authors:
 
 &emsp;Miriam Senne
+
 &emsp;Selin Kesler
+
 &emsp;Victor Kowalski
 
 
