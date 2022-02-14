@@ -2,11 +2,13 @@
 
 Final project for the course Humanoid Robotic Systems at TUM, finished in February 2022. Group idea: make the [NAO Robot](https://www.softbankrobotics.com/emea/en/nao) play poker.
 
-Group members: Miriam Senne, Selin Kesler and Victor Kowalski.<br><br><br>
+Group members: Miriam Senne, Selin Kesler and Victor Kowalski.<br><br>
 
 - Sketch of the project idea:<br><br><img width="500" alt="sketch" src="https://user-images.githubusercontent.com/70666266/153781413-0aa919be-59a2-4f63-9fe8-97611f96b2b6.png">
 
-- Short demo:<br><br>https://user-images.githubusercontent.com/70666266/153781446-44f42773-c056-4c06-9afd-3fd9e0029a2c.mp4
+- Short demo:<br><br>
+
+https://user-images.githubusercontent.com/70666266/153781446-44f42773-c056-4c06-9afd-3fd9e0029a2c.mp4
 
 - System architechture:<br><br><img width="500" alt="system architecture" src="https://user-images.githubusercontent.com/70666266/153781448-45023bb5-da58-470a-8991-4ccf80f16621.png">
 
