@@ -14,4 +14,4 @@ https://user-images.githubusercontent.com/70666266/153781446-44f42773-c056-4c06-
 
 - Task division:<br><br><img width="500" alt="task_dis" src="https://user-images.githubusercontent.com/70666266/153781452-dfb5349d-c4c3-4d7e-a097-38d8b3a2aa8b.png"><br>
 
-The included [report](report) explains the implementation in a detailed way.
+The included [report](report.pdf) explains the implementation in a detailed way.
