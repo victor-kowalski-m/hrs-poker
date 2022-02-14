@@ -6,7 +6,7 @@ Group members: Miriam Senne, Selin Kesler and Victor Kowalski.
 
 Sketch of the project idea:
 
-![sketch](https://user-images.githubusercontent.com/70666266/153781413-0aa919be-59a2-4f63-9fe8-97611f96b2b6.png)
+<img width="300" alt="sketch" src="https://user-images.githubusercontent.com/70666266/153781413-0aa919be-59a2-4f63-9fe8-97611f96b2b6.png">
 
 Short demo:
 
