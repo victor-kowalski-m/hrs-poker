@@ -1,4 +1,4 @@
-# Poker robot
+# Poker Robot
 
 Final project for the course Humanoid Robotic Systems at TUM, finished in February 2022. Group idea: make the [NAO Robot](https://www.softbankrobotics.com/emea/en/nao) play poker.
 
