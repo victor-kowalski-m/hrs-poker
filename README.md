@@ -2,12 +2,10 @@
 
 Final project for the course Humanoid Robotic Systems at TUM, concluded in February 2022.
 
-Authors:
+Authors: Miriam Senne, Selin Kesler and Victor Kowalski
 
-&emsp;Miriam Senne
+Sketch of the project idea:
 
-&emsp;Selin Kesler
+Short demo:
 
-&emsp;Victor Kowalski
-
-
+System architechture:
