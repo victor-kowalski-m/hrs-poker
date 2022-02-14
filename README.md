@@ -6,7 +6,7 @@ Group members: Miriam Senne, Selin Kesler and Victor Kowalski.<br><br>
 
 - Sketch of the project idea:<br><br><img width="500" alt="sketch" src="https://user-images.githubusercontent.com/70666266/153781413-0aa919be-59a2-4f63-9fe8-97611f96b2b6.png">
 
-- Short demo:<br><br>
+- Short demo (turn on the volume):<br>
 
 https://user-images.githubusercontent.com/70666266/153781446-44f42773-c056-4c06-9afd-3fd9e0029a2c.mp4
 
