@@ -12,6 +12,6 @@ https://user-images.githubusercontent.com/70666266/153781446-44f42773-c056-4c06-
 
 - System architechture (ROS):<br><br><img width="500" alt="system architecture" src="https://user-images.githubusercontent.com/70666266/153781448-45023bb5-da58-470a-8991-4ccf80f16621.png">
 
-- Task division:<br><br><img width="500" alt="task_dis" src="https://user-images.githubusercontent.com/70666266/153781452-dfb5349d-c4c3-4d7e-a097-38d8b3a2aa8b.png">
+- Task division:<br><br><img width="500" alt="task_dis" src="https://user-images.githubusercontent.com/70666266/153781452-dfb5349d-c4c3-4d7e-a097-38d8b3a2aa8b.png"><br>
 
 The included [report](report) explains the implementation in a detailed way.
