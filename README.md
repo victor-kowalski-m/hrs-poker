@@ -1,6 +1,6 @@
 # Poker Robot
 
-Final project for the course Humanoid Robotic Systems at TUM, finished in February 2022. Group idea: make the [NAO Robot](https://www.softbankrobotics.com/emea/en/nao) play poker. A long demo can be found in the Youtube channel of the Institute for Cognitive Systems: [demo](https://www.youtube.com/watch?v=VXAq6-FZyvs). A short demo is included below.
+Final project for the course Humanoid Robotic Systems at TUM, finished in February 2022. Group idea: make the [NAO Robot](https://www.softbankrobotics.com/emea/en/nao) play poker. A long demo can be found [here](https://www.youtube.com/watch?v=VXAq6-FZyvs), in the Youtube channel of the Institute for Cognitive Systems. A short demo is included below.
 
 Group members: Miriam Senne, Selin Kesler and Victor Kowalski.<br><br>
 
