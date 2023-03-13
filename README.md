@@ -1,6 +1,6 @@
 # Poker Robot
 
-Final project for the course Humanoid Robotic Systems at TUM, finished in February 2022. Group idea: make the _NAO Robot_ play poker. A **short demo** is included below. You can also check [a long demo on the Youtube channel of the Institute fDiplom-Ingenieursor Cognitive Systems](https://www.youtube.com/watch?v=VXAq6-FZyvs). 
+Final project for the course Humanoid Robotic Systems at TUM, finished in February 2022. Group idea: make the _NAO Robot_ play poker. A **short demo** is included below. You can also check [a long demo on the Youtube channel of the Institute for Cognitive Systems](https://www.youtube.com/watch?v=VXAq6-FZyvs). 
 
 Group members: Miriam Senne, Selin Kesler and Victor Kowalski.<br><br>
 
